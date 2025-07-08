@@ -2,8 +2,4 @@
 
 <h2 align="center">For start, you need to install vc_redist 2015!</h2>
 
-**Safety version showcase video:** **`link`**
-
-**Dangerous version showcase video:** **`link`**
-
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6cbad9&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
