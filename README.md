@@ -1,4 +1,4 @@
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6cbad9&text=Oxygenium.exe&fontSize=30&fontAlignY=40&animation=twinkling&section=header&desc=By%20BelkasPRO%20|%20N17Pro3426&descAlignY=50"/> 
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6cbad9&text=Oxygenium.exe&fontSize=30&fontAlignY=20&animation=twinkling&section=header&desc=By%20BelkasPRO%20|%20N17Pro3426&descAlignY=50"/> 
 
 If you can't launch you need install **`vc_redist 2015`**. [**`If you want to test it in WINDOWS XP you need install this vc_redist`**]
 
