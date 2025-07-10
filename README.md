@@ -1,5 +1,8 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6cbad9&text=Oxygenium.exe&fontSize=30&fontAlignY=35&animation=twinkling&section=header&desc=By%20BelkasPRO%20|%20N17Pro3426&descAlignY=50"/> 
 
+# 📜 About Oxygenium.exe
+Oxygenium.exe is made in C++, this malware has 20 payloads each of which lasts for 30 seconds. Made only for educational purposes, NOT to damage other people's computers!
+
 # ⚠️ Before starting this malware 
 Recomended use VBox - VMware Workstation because that program can cause your system death and data loss. Use Windows XP because if you want to run it on Windows 7 the malware will end halfway through the payloads, and don't forget to download vc_redist 2015 otherwise the program won't start!
 
